@@ -1,4 +1,6 @@
 #pragma once
+
+
 /*
  * This file is part of the libCEC(R) library.
  *
@@ -32,7 +34,7 @@
  */
 
 #include "cecc.h"
-
+#include <stdbool.h>
 #include <stdio.h>
 #if defined(_WIN32) || defined(_WIN64)
 #include <windows.h>

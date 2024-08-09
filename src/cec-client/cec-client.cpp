@@ -1,3 +1,4 @@
+
 /*
  * This file is part of the libCEC(R) library.
  *
@@ -33,6 +34,7 @@
 
 #include "env.h"
 #include "cec.h"
+
 
 #include <cstdio>
 #include <fcntl.h>
