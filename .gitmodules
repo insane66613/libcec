@@ -7,6 +7,3 @@
 [submodule "src/dotnet"]
 	path = src/dotnet
 	url = https://github.com/Pulse-Eight/cec-dotnet.git
-[submodule "external/p8-platform"]
-	path = external/p8-platform
-	url = https://github.com/Pulse-Eight/platform.git

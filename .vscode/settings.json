@@ -1,7 +1,0 @@
-{
-    "C_Cpp.dimInactiveRegions": false,
-    "files.associations": {
-        ".fantomasignore": "ignore",
-        "stdbool.h": "c"
-    }
-}
