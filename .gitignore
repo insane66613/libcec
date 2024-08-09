@@ -109,3 +109,4 @@ src/libcec-wmc/obj
 
 .fake
 external/p8-platform
+/external
