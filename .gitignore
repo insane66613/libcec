@@ -108,3 +108,4 @@ src/libcec-wmc/obj
 /src/dotnetlib/LibCecSharp/LibCecSharp.rc
 
 .fake
+external/p8-platform
