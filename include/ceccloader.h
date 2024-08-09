@@ -1,4 +1,3 @@
-#include <stdbool.h>
 #pragma once
 /*
  * This file is part of the libCEC(R) library.
